@@ -11,8 +11,7 @@ Tasks:
 4. Complete the methods outlined for "QueueHospital.java"
 5. Complete the methods outlined for "PriorityQueueHospital.java"
 6. Test for coverage
-7. Try and make webcat do its job
-8. write a todo last second
+7. Try and make webcat work
 
 Estimated Time (minutes):
 1. 10
@@ -22,7 +21,6 @@ Estimated Time (minutes):
 5. 10
 6. 25
 7. 10
-8. 1
 
 Actual Time (minutes):
 1. 10
@@ -31,7 +29,6 @@ Actual Time (minutes):
 4. 5
 5. 5
 6. 10
-7. 0 (gave up, couldnt upload first time)
-8. 2
+7. 10
 
 */}
